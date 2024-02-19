@@ -1,10 +1,10 @@
 public class Projeto_Calculo {
     public static void main(String args[]){
 
-        operacoesaritimetricas();
+        calculoMedia();
     }
 
-    private static void operacoesaritimetricas() {
+    private static void calculoMedia() {
 
         int nun1 = 20;
         int nun2 =50;
@@ -17,7 +17,8 @@ public class Projeto_Calculo {
 
         int nun8 = nun7 /4;
 
-        System.out.println(nun8);
+        System.out.println("Total:" + nun7);
+        System.out.println("Média:" + nun8);
 
 
     }
