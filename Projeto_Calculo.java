@@ -15,7 +15,7 @@ public class Projeto_Calculo {
         int nun6 = nun5 + nun3;
         int nun7 = nun6 + nun4;
 
-        int nun8 = nun7 /4;
+        int nun8 = nun7 /4 ;
 
         System.out.println("Total:" + nun7);
         System.out.println("Média:" + nun8);
